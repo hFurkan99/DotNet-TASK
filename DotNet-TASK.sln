@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskApp.API", "TaskApp.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskConsoleApp", "TaskConsoleApp\TaskConsoleApp.csproj", "{2129881F-B26C-4B5F-99B5-D4343DB1E092}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenAllConsoleApp", "WhenAllConsoleApp\WhenAllConsoleApp.csproj", "{2328C113-967F-48EA-92DA-9639AF3E0B6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2129881F-B26C-4B5F-99B5-D4343DB1E092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2129881F-B26C-4B5F-99B5-D4343DB1E092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2129881F-B26C-4B5F-99B5-D4343DB1E092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2328C113-967F-48EA-92DA-9639AF3E0B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2328C113-967F-48EA-92DA-9639AF3E0B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2328C113-967F-48EA-92DA-9639AF3E0B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2328C113-967F-48EA-92DA-9639AF3E0B6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
